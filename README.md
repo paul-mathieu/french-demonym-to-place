@@ -12,11 +12,11 @@ Le fichier [demonyms.json](./demonyms.json) contient la liste des gentilés avec
 
 # English
 
-The file [demonyms.txt](./ demonyms.txt) contains the list of names or spellings of a country and its main city or cities as well as the continents with for each element the list of its demonyms.
+The file [demonyms.txt](./demonyms.txt) contains the list of names or spellings of a country and its main city or cities as well as the continents with for each element the list of its demonyms.
 
-The file [places.json](./ places.json) contains the list of places with the corresponding demonyms.
+The file [places.json](./places.json) contains the list of places with the corresponding demonyms.
 
-The file [demonyms.json](./ demonyms.json) contains the list of demonyms with the corresponding locations.
+The file [demonyms.json](./demonyms.json) contains the list of demonyms with the corresponding locations.
 
 #### N.B.
 
