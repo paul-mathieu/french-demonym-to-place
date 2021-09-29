@@ -20,6 +20,6 @@ The file [demonyms.json](./demonyms.json) contains the list of demonyms with the
 
 #### N.B.
 
-Les fichiers sont libre d'utilisation, vous pouvez en faire ce que vous voulez. Si vous êtes reconnaissant de mon travail, ajoutez juste une étoile au projet :)
+Les fichiers sont libres d'utilisation, vous pouvez en faire ce que vous voulez. Si vous êtes reconnaissants de mon travail, ajoutez juste une étoile au projet :)
 
 The files are free to use, you can do what you want with them. If you are grateful for my work, just add a star to the project :)
